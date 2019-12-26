@@ -1,0 +1,22 @@
+C:\Users\Катя\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+C:\Users\Катя\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+C:\Users\Катя\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Катя\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\Катя\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\Users\Катя\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Катя\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Катя\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\Катя\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
+D:\Hillel\Homework\дз 2\1-12\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+D:\Hillel\Homework\дз 2\1-12\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+D:\Hillel\Homework\дз 2\1-12\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+D:\Hillel\Homework\дз 2\1-12\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+D:\Hillel\Homework\дз 2\1-12\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+D:\Hillel\Homework\дз 2\1-12\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+D:\Hillel\Homework\дз 2\1-12\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+D:\Hillel\Homework\дз 2\1-12\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Hillel\Homework\дз 2\1-12\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+D:\Hillel\Homework\дз 2\1-12\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+D:\Hillel\Homework\дз 2\1-12\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb

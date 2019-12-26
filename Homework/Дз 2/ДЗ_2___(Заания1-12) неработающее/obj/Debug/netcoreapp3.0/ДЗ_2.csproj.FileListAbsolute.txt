@@ -1,0 +1,21 @@
+D:\Hillel\Homework\Homework\ДЗ_2\bin\Debug\netcoreapp3.0\ДЗ_2.exe
+D:\Hillel\Homework\Homework\ДЗ_2\bin\Debug\netcoreapp3.0\ДЗ_2.deps.json
+D:\Hillel\Homework\Homework\ДЗ_2\bin\Debug\netcoreapp3.0\ДЗ_2.runtimeconfig.json
+D:\Hillel\Homework\Homework\ДЗ_2\bin\Debug\netcoreapp3.0\ДЗ_2.runtimeconfig.dev.json
+D:\Hillel\Homework\Homework\ДЗ_2\bin\Debug\netcoreapp3.0\ДЗ_2.dll
+D:\Hillel\Homework\Homework\ДЗ_2\bin\Debug\netcoreapp3.0\ДЗ_2.pdb
+D:\Hillel\Homework\Homework\ДЗ_2\obj\Debug\netcoreapp3.0\ДЗ_2.csprojAssemblyReference.cache
+D:\Hillel\Homework\Homework\ДЗ_2\obj\Debug\netcoreapp3.0\ДЗ_2.AssemblyInfoInputs.cache
+D:\Hillel\Homework\Homework\ДЗ_2\obj\Debug\netcoreapp3.0\ДЗ_2.AssemblyInfo.cs
+D:\Hillel\Homework\Homework\ДЗ_2\obj\Debug\netcoreapp3.0\ДЗ_2.dll
+D:\Hillel\Homework\Homework\ДЗ_2\obj\Debug\netcoreapp3.0\ДЗ_2.pdb
+D:\Hillel\Homework\дз 2\ДЗ_2\obj\Debug\netcoreapp3.0\ДЗ_2.csprojAssemblyReference.cache
+D:\Hillel\Homework\дз 2\ДЗ_2\obj\Debug\netcoreapp3.0\ДЗ_2.AssemblyInfoInputs.cache
+D:\Hillel\Homework\дз 2\ДЗ_2\obj\Debug\netcoreapp3.0\ДЗ_2.AssemblyInfo.cs
+D:\Hillel\Homework\дз 2\ДЗ_2\obj\Debug\netcoreapp3.0\ДЗ_2.dll
+D:\Hillel\Homework\дз 2\ДЗ_2\obj\Debug\netcoreapp3.0\ДЗ_2.pdb
+D:\Hillel\Homework\дз 2\ДЗ_2___(Заания1-12)\obj\Debug\netcoreapp3.0\ДЗ_2.csprojAssemblyReference.cache
+D:\Hillel\Homework\дз 2\ДЗ_2___(Заания1-12)\obj\Debug\netcoreapp3.0\ДЗ_2.AssemblyInfoInputs.cache
+D:\Hillel\Homework\дз 2\ДЗ_2___(Заания1-12)\obj\Debug\netcoreapp3.0\ДЗ_2.AssemblyInfo.cs
+D:\Hillel\Homework\дз 2\ДЗ_2___(Заания1-12)\obj\Debug\netcoreapp3.0\ДЗ_2.dll
+D:\Hillel\Homework\дз 2\ДЗ_2___(Заания1-12)\obj\Debug\netcoreapp3.0\ДЗ_2.pdb

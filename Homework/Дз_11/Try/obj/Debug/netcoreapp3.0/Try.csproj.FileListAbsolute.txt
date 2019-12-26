@@ -1,0 +1,10 @@
+D:\Hillel\Homework\Дз-11\Try\obj\Debug\netcoreapp3.0\Try.AssemblyInfoInputs.cache
+D:\Hillel\Homework\Дз-11\Try\obj\Debug\netcoreapp3.0\Try.AssemblyInfo.cs
+D:\Hillel\Homework\Дз-11\Try\bin\Debug\netcoreapp3.0\Try.exe
+D:\Hillel\Homework\Дз-11\Try\bin\Debug\netcoreapp3.0\Try.deps.json
+D:\Hillel\Homework\Дз-11\Try\bin\Debug\netcoreapp3.0\Try.runtimeconfig.json
+D:\Hillel\Homework\Дз-11\Try\bin\Debug\netcoreapp3.0\Try.runtimeconfig.dev.json
+D:\Hillel\Homework\Дз-11\Try\bin\Debug\netcoreapp3.0\Try.dll
+D:\Hillel\Homework\Дз-11\Try\bin\Debug\netcoreapp3.0\Try.pdb
+D:\Hillel\Homework\Дз-11\Try\obj\Debug\netcoreapp3.0\Try.dll
+D:\Hillel\Homework\Дз-11\Try\obj\Debug\netcoreapp3.0\Try.pdb

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Дз_14.Animals" Collapsed="true">
+    <Position X="12" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAABEAAAAAUAAAABAAAAIAAEAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Животные.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Дз_14.Unicellular" Collapsed="true">
+    <Position X="8.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Животные.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Дз_14.multicellular" Collapsed="true">
+    <Position X="13.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAgAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Животные.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Дз_14.birds" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Животные.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Дз_14.mammals" Collapsed="true">
+    <Position X="14.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAQAAAACAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Животные.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Дз_14.People" Collapsed="true">
+    <Position X="15.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAQAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Животные.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Дз_14.Dogs" Collapsed="true">
+    <Position X="13.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAEAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Животные.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

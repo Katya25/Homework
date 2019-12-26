@@ -1,0 +1,34 @@
+D:\Hillel\_13_2\_13_2\bin\Debug\netcoreapp3.0\_13_2.exe
+D:\Hillel\_13_2\_13_2\bin\Debug\netcoreapp3.0\_13_2.deps.json
+D:\Hillel\_13_2\_13_2\bin\Debug\netcoreapp3.0\_13_2.runtimeconfig.json
+D:\Hillel\_13_2\_13_2\bin\Debug\netcoreapp3.0\_13_2.runtimeconfig.dev.json
+D:\Hillel\_13_2\_13_2\bin\Debug\netcoreapp3.0\_13_2.dll
+D:\Hillel\_13_2\_13_2\bin\Debug\netcoreapp3.0\_13_2.pdb
+D:\Hillel\_13_2\_13_2\obj\Debug\netcoreapp3.0\_13_2.csprojAssemblyReference.cache
+D:\Hillel\_13_2\_13_2\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+D:\Hillel\_13_2\_13_2\obj\Debug\netcoreapp3.0\App.g.cs
+D:\Hillel\_13_2\_13_2\obj\Debug\netcoreapp3.0\_13_2_MarkupCompile.cache
+D:\Hillel\_13_2\_13_2\obj\Debug\netcoreapp3.0\_13_2_MarkupCompile.lref
+D:\Hillel\_13_2\_13_2\obj\Debug\netcoreapp3.0\MainWindow.baml
+D:\Hillel\_13_2\_13_2\obj\Debug\netcoreapp3.0\_13_2.g.resources
+D:\Hillel\_13_2\_13_2\obj\Debug\netcoreapp3.0\_13_2.AssemblyInfoInputs.cache
+D:\Hillel\_13_2\_13_2\obj\Debug\netcoreapp3.0\_13_2.AssemblyInfo.cs
+D:\Hillel\_13_2\_13_2\obj\Debug\netcoreapp3.0\_13_2.dll
+D:\Hillel\_13_2\_13_2\obj\Debug\netcoreapp3.0\_13_2.pdb
+D:\Hillel\Homework\дз 2\задание 13\_13_2\obj\Debug\netcoreapp3.0\_13_2.csprojAssemblyReference.cache
+D:\Hillel\Homework\дз 2\задание 13\_13_2\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+D:\Hillel\Homework\дз 2\задание 13\_13_2\obj\Debug\netcoreapp3.0\App.g.cs
+D:\Hillel\Homework\дз 2\задание 13\_13_2\obj\Debug\netcoreapp3.0\_13_2_MarkupCompile.cache
+D:\Hillel\Homework\дз 2\задание 13\_13_2\obj\Debug\netcoreapp3.0\_13_2_MarkupCompile.lref
+D:\Hillel\Homework\дз 2\задание 13\_13_2\obj\Debug\netcoreapp3.0\_13_2.dll
+D:\Hillel\Homework\дз 2\задание 13\_13_2\obj\Debug\netcoreapp3.0\_13_2.pdb
+D:\Hillel\Homework\дз 2\задание 13\_13_2\bin\Debug\netcoreapp3.0\_13_2.exe
+D:\Hillel\Homework\дз 2\задание 13\_13_2\bin\Debug\netcoreapp3.0\_13_2.deps.json
+D:\Hillel\Homework\дз 2\задание 13\_13_2\bin\Debug\netcoreapp3.0\_13_2.runtimeconfig.json
+D:\Hillel\Homework\дз 2\задание 13\_13_2\bin\Debug\netcoreapp3.0\_13_2.runtimeconfig.dev.json
+D:\Hillel\Homework\дз 2\задание 13\_13_2\bin\Debug\netcoreapp3.0\_13_2.dll
+D:\Hillel\Homework\дз 2\задание 13\_13_2\bin\Debug\netcoreapp3.0\_13_2.pdb
+D:\Hillel\Homework\дз 2\задание 13\_13_2\obj\Debug\netcoreapp3.0\MainWindow.baml
+D:\Hillel\Homework\дз 2\задание 13\_13_2\obj\Debug\netcoreapp3.0\_13_2.g.resources
+D:\Hillel\Homework\дз 2\задание 13\_13_2\obj\Debug\netcoreapp3.0\_13_2.AssemblyInfoInputs.cache
+D:\Hillel\Homework\дз 2\задание 13\_13_2\obj\Debug\netcoreapp3.0\_13_2.AssemblyInfo.cs

@@ -1,0 +1,3 @@
+D:\Hillel\Block_2\Занятие_25\Занятие_25\obj\Debug\netcoreapp3.0\Занятие_25.csprojAssemblyReference.cache
+D:\Hillel\Block_2\Занятие_25\Занятие_25\obj\Debug\netcoreapp3.0\Занятие_25.AssemblyInfoInputs.cache
+D:\Hillel\Block_2\Занятие_25\Занятие_25\obj\Debug\netcoreapp3.0\Занятие_25.AssemblyInfo.cs
